@@ -6,13 +6,13 @@
 
 # DAY1: 2024年4月27日(土)
 
-<a href="https://maps.app.goo.gl/PTtouJmtQseYw7Jm7">
+<a href="https://maps.app.goo.gl/PTtouJmtQseYw7Jm7" target="_blank">
     <img src="image-1.png" alt="DAY1行程マップ" style="width: 60%; display: block; margin: auto;">
 </a>
 
 # [ヤンマーミュージアム](https://www.yanmar.com/jp/museum/)
 
-- 自宅から🚗127km
+- 自宅付近から [🚗126km](https://maps.app.goo.gl/VzisRGZku8krRBHB6)
 - 駐車場44台 無料
 - 10am-2pmの約4時間滞在予定
 
@@ -45,7 +45,7 @@ TEL: 0749-62-8887 / FAX: 0749-62-8780
 
 # [あわら温泉 青雲閣](https://yukai-r.jp/seiunkaku/)
 
-- ヤンマーミュージアムから🚗127km
+- ヤンマーミュージアムから [🚗127km](https://maps.app.goo.gl/aHyWHNuyEqZ2ydGs9)
 - 早めにチェックインして館内のキッズパークで遊ぶ
 
 ```

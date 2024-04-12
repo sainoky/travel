@@ -6,7 +6,7 @@
 
 # DAY2: 2024年4月28日(日)
 
-<a href="https://maps.app.goo.gl/dr9HapRdbfq2dRUT8">
+<a href="https://maps.app.goo.gl/dr9HapRdbfq2dRUT8" target="_blank">
     <img src="image-5.png" alt="DAY2行程マップ" style="width: 60%; display: block; margin: auto;">
 </a>
 
@@ -69,8 +69,8 @@
 
 # [スーパーホテル南彦根駅前](https://www.superhotel.co.jp/s_hotels/hikone/)
 
-- 福井少年運動公園から🚗115km
-- 三国サンセットビーチから🚗150km
+- 福井少年運動公園から [🚗114km](https://maps.app.goo.gl/pBLF8aUduZRcLYzr6)
+- 三国サンセットビーチから [🚗149km](https://maps.app.goo.gl/kLDiTtYmVad8WPy99)
 - 駐車場は50台(先着順無料)
 - オーガニックサラダや日替メニューの無料ビュッフェ朝食を是非お召し上がりください
 
