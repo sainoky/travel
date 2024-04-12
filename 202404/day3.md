@@ -6,9 +6,14 @@
 
 # DAY3: 2024年4月29日(月・祝)
 
-<a href="https://maps.app.goo.gl/YW1TbgFJbm4ziHG79" target="_blank">
-    <img src="image-8.png" alt="DAY3行程マップ" style="width: 60%; display: block; margin: auto;">
-</a>
+<div style="text-align: center;">
+    <a href="https://maps.app.goo.gl/YW1TbgFJbm4ziHG79" target="_blank">
+        <img src="image-8.png" alt="DAY3行程マップ" style="width: 40%; margin: 1%; display: inline-block;">
+    </a>
+    <a href="https://search.w-nexco.co.jp/forecast/trafficjam_golden_week_2024/book/#target/page_no=11" target="_blank">
+        <img src="image-22.png" alt="渋滞予測" style="width: 40%; margin: 1%; display: inline-block;">
+    </a>
+</div>
 
 # 午前
 

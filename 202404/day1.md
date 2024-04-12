@@ -6,9 +6,14 @@
 
 # DAY1: 2024年4月27日(土)
 
-<a href="https://maps.app.goo.gl/PTtouJmtQseYw7Jm7" target="_blank">
-    <img src="image-1.png" alt="DAY1行程マップ" style="width: 60%; display: block; margin: auto;">
-</a>
+<div style="text-align: center;">
+    <a href="https://maps.app.goo.gl/PTtouJmtQseYw7Jm7" target="_blank">
+        <img src="image-1.png" alt="DAY1行程マップ" style="width: 40%; margin: 1%; display: inline-block;">
+    </a>
+    <a href="https://search.w-nexco.co.jp/forecast/trafficjam_golden_week_2024/book/#target/page_no=3" target="_blank">
+        <img src="image-21.png" alt="渋滞予測" style="width: 40%; margin: 1%; display: inline-block;">
+    </a>
+</div>
 
 # [ヤンマーミュージアム](https://www.yanmar.com/jp/museum/)
 
