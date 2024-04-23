@@ -25,6 +25,9 @@
     - 東尋坊付近
     - [亀島園地](https://fuku-iro.jp/spot/detail_10142.html)
         - 無料駐車場数台、有料駐車場3台程度（1,000円）
+- 雨天の場合の候補
+    - 午後に予定している福井少年運動公園の屋内スペース
+    - 芦原温泉駅構内、アフレア（AFLARE）2階にこどもが遊べるスペースあり
 
 # 昼食
 
@@ -41,7 +44,7 @@
 
 - 彦根への移動を考えると3pmごろには滋賀県へ向けて出発したい
 
-## 候補1: [福井少年運動公園(こどもの国)](https://fuku-iro.jp/spot/detail_11835.html)
+## [福井少年運動公園(こどもの国)](https://fuku-iro.jp/spot/detail_11835.html)
 
 - 屋外遊具が充実
 
@@ -60,13 +63,6 @@
     <img src="image-11.png" alt="福井少年運動公園屋内" style="width: 30%; margin: 1%; display: inline-block;">
 </div>
 
-## 候補2: [芝政ワールド](http://shibamasa.com/)
-
-- パスポートが高いので短時間だともったいない？
-    - スーパーパスポートは大人4,000円、小人2,900円
-- アトラクションはいろいろ http://shibamasa.com/attraction.php
-- 新アトラクション「恐竜の森」はこどもたち喜びそうだが屋外なので雨天だと微妙か
-![恐竜の森](image-7.png)
 
 
 # [スーパーホテル南彦根駅前](https://www.superhotel.co.jp/s_hotels/hikone/)

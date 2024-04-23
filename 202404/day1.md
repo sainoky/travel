@@ -7,7 +7,7 @@
 # DAY1: 2024年4月27日(土)
 
 <div style="text-align: center;">
-    <a href="https://maps.app.goo.gl/pzTvjXV4BSsUrsCWA" target="_blank">
+    <a href="https://maps.app.goo.gl/J2sErkKzkRhZ9QyC9" target="_blank">
         <img src="image-2.png" alt="DAY1行程マップ" style="width: 40%; margin: 1%; display: inline-block;">
     </a>
     <a href="https://search.w-nexco.co.jp/forecast/trafficjam_golden_week_2024/book/#target/page_no=3" target="_blank">
@@ -21,9 +21,10 @@
 
 ## 候補
 
-- [道の駅 妹子の郷](https://imokonosato.com/)
-- [道の駅 藤樹の里あどがわ](https://adogawa.net/)
+- 滋賀県 [道の駅 妹子の郷](https://imokonosato.com/)
+- 滋賀県 [道の駅 藤樹の里あどがわ](https://adogawa.net/)
 - びわ湖こどもの国にもレストランはある
+- 福井県 [道の駅 南えちぜん山海里](https://kineno-nanjo.com/)
 
 # [びわ湖こどもの国](http://www.biwa.ne.jp/~kodomo92/)
 
@@ -43,6 +44,18 @@
 </div>
 
 - 遊具などの紹介をしているブログ: [こどもとお出かけ｜滋賀【びわ湖こどもの国】は本当にすごい公園](https://kuragebohemian.xyz/cat/child/park11)
+
+# [道の駅 南えちぜん山海里](https://kineno-nanjo.com/)
+
+- 南条SAから徒歩で入れる
+- 時間があれば寄りたい
+- 屋外遊具(建物3階からのローラー滑り台など)・屋内キッズスペースあり
+
+<div style="text-align: center;">
+    <img src="image-27.png" style="width: 30%; margin: 1%; display: inline-block;">
+    <img src="image-28.png" style="width: 30%; margin: 1%; display: inline-block;">
+    <img src="image-29.png" style="width: 30%; margin: 1%; display: inline-block;">
+</div>
 
 # [あわら温泉 青雲閣](https://yukai-r.jp/seiunkaku/)
 
