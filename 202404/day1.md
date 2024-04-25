@@ -21,10 +21,12 @@
 
 ## 候補
 
-- 滋賀県 [道の駅 妹子の郷](https://imokonosato.com/)
-- 滋賀県 [道の駅 藤樹の里あどがわ](https://adogawa.net/)
+- 滋賀県 湖西 [道の駅 妹子の郷](https://imokonosato.com/)
+- 滋賀県 湖西 [道の駅 藤樹の里あどがわ](https://adogawa.net/)
 - びわ湖こどもの国にもレストランはある
-- 福井県 [道の駅 南えちぜん山海里](https://kineno-nanjo.com/)
+- 滋賀県 琵琶湖北 [道の駅 塩津海道 あぢかまの里](http://www.koti.jp/)
+- 福井県 敦賀 [日本海さかな街](https://www.sakanamachi.info/) 日本海側最大級の海鮮市場
+- 福井県 南条 [道の駅 南えちぜん山海里](https://kineno-nanjo.com/)
 
 # [びわ湖こどもの国](http://www.biwa.ne.jp/~kodomo92/)
 
