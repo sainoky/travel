@@ -33,8 +33,10 @@
 # 昼食
 
 - 未定
-- 天気が良ければ海岸でお弁当でもいいかも
+- 天気が良ければ海岸でお弁当とかでもいいかも
     - 朝食をおなかいっぱい食べているだろうから軽めでよさそう
+    - [JJバーガー](https://www.plant-co.jp/jjburger.html)で買ってきてもらう？
+        - [PLANT-2 坂井店のメニュー(PDF)](https://www.plant-co.jp/images/jjburger/new/06sakai_menu.pdf)
 - 店で食べる場合の候補
     - [夕陽の見える海鮮宿 大平庵](https://taiheian.jp/lunch/)
         - [三国サンセットビーチのすぐ向かい](https://maps.app.goo.gl/wETjbsXJztNS3tpT7)
@@ -44,6 +46,7 @@
 # 午後
 
 - 彦根への移動を考えると3pmごろには滋賀県へ向けて出発したい
+- 海でまだ遊びたければ午後も海でもOK
 
 ## [福井少年運動公園(こどもの国)](https://fuku-iro.jp/spot/detail_11835.html)
 
@@ -88,8 +91,13 @@
 
 # 夕食
 
-- ホテルから徒歩圏内にあるショッピングモールで？
+- 未定
+- ホテル駐車場が先着順なので、チェックインしてから徒歩圏内にあるショッピングモールで？
     - [ビバシティ彦根](https://www.vivacity.co.jp/restaurant/)
+- 道中のサービスエリアや道の駅などで早めに食べる？
+    - [賤ヶ岳SA](https://www.ohmitetudo.co.jp/shizugatake/) ラーメン、うどん、カレー、定食
+    - [神田PA](https://sapa.c-nexco.co.jp/sapa?sapainfoid=72) 小さいけど一応フードコートあり
+    - [道の駅 近江母の郷](https://www.omihahanosato.jp/) 長浜ICでおりて7.5km
 
 ---
 
