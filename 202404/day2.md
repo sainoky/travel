@@ -73,6 +73,18 @@
 </div>
 
 
+## [道の駅 南えちぜん山海里](https://kineno-nanjo.com/)
+
+- 南条SAから徒歩で入れる
+- 時間があれば寄りたい
+- 屋外遊具(建物3階からのローラー滑り台など)・屋内キッズスペースあり
+
+<div style="text-align: center;">
+    <img src="image-27.png" style="width: 30%; margin: 1%; display: inline-block;">
+    <img src="image-28.png" style="width: 30%; margin: 1%; display: inline-block;">
+    <img src="image-29.png" style="width: 30%; margin: 1%; display: inline-block;">
+</div>
+
 
 # [スーパーホテル南彦根駅前](https://www.superhotel.co.jp/s_hotels/hikone/)
 
@@ -89,8 +101,6 @@
 | チェックアウト          | 2024-04-29(月)                                                                                    |
 | 申込部屋数            | 2部屋                                                                                              |
 | 部屋タイプ            | 【禁煙】スーパールーム【上下型ツイン 定員2～3名幼児含む】(k3)<br>ダブルサイズのワイドベッドとお子様に人気のロフトベッド付の【スーパールーム】です。 ご家族にお勧めです。       |
-
-- 消費税込:13,800円Ｘ2部屋＝消費税込:27,600円
 
 ![スーパールーム](image-6.png)
 
