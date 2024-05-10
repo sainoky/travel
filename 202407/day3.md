@@ -11,6 +11,7 @@
 
 # [ヤンマーミュージアム](https://www.yanmar.com/jp/museum/)
 
+- 月曜休館
 - チケットの入場時間が15分単位
 
 <img src="yammar_guide.jpg" alt="ヤンマーミュージアムガイド" style="width: 60%; display: block; margin: auto;">
