@@ -52,16 +52,15 @@
 ## 昼食
 
 - ヤンマーミュージアム併設カフェで
+    - [Premium Marché BIWAKO](https://www.yanmar.com/jp/museum/facilities/premium_marche.html)
 - 混雑するらしいので早めに
 
-<div style="text-align: center;">
-    <img src="image-2.png" alt="ヤンマーミュージアム" style="width: 30%; margin: 1%; display: inline-block;">
-    <img src="image-3.png" alt="ヤンマーミュージアム" style="width: 30%; margin: 1%; display: inline-block;">
-    <img src="image-4.png" alt="ヤンマーミュージアム" style="width: 30%; margin: 1%; display: inline-block;">
-</div>
+![alt text](image.png)
 
 - 【平日】11:00～14:30（ラストオーダー 14:00）
 - 【土日祝日】11:00～17:00（ランチラストオーダー 15:00 / カフェラストオーダー 16:30）
+
+![alt text](image-14.png)
 
 
 ## 移動
