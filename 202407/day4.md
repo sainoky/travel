@@ -42,7 +42,7 @@
      Web)入館予約券　個人未就学児 / 0 円 × 1 枚
 ```
 
-- [館内のご案内](https://www.yanmar.com/jp/museum/facilities/guide.html)
+- [アトラクション一覧](https://www.yanmar.com/jp/museum/facilities/guide.html)
 - [ミュージアムショップ](https://www.yanmar.com/jp/museum/facilities/museum_shop.html)
     - 自分用にトラクター買いたい ヤンマートラクター YT5113 ￥550（税込）
     - こどもたちにTシャツいいかも ￥2,000（税込）
