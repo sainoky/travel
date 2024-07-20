@@ -22,7 +22,7 @@
 
 # [リニア・鉄道館](https://museum.jr-central.co.jp/)
 
-<center><img src="tetsudo.JPG" width="90%"></center>
+![まっぷる](tetsudo.JPG)
 
 - 火曜休館
 - 開館時間 10：00～17：30
