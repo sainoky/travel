@@ -7,13 +7,29 @@
 
 # DAY2: 2024年7月30日(火)
 
+## 朝食
+
+- ブリックス･ファミリー･レストラン(２階)でブッフェ
+- この日は朝食7:00-
+
+<center><img src="image-1.png" width="80%"></center>
+
 # [レゴランド・ジャパン](https://www.legoland.jp/)
 
 - 1日フルに遊ぶ
 - この日の営業 10:00～18:00
 - 土曜日・日曜日・祝日などの混雑が予測される日は、オープン時間より早く入園を開始する場合がございます。
 
-![alt text](image-11.png)
+<center><img src="legoland.JPG" width="90%"></center>
+
+## [水着で楽しむ２つのウォーターアトラクション](https://www.legoland.jp/operation/seasonal-events/summer/2024/water-attractions/)
+
+- ウォーター･メイズは1時間ごと、スプラッシュ･パッドは30分ごとの入替制
+- 当日ウェブページで受付
+    - 午前枠は8:00～受付
+    - 午後枠は11:00～受付
+
+<center><img src="image-5.png" width="80%"></center>
 
 ## 昼食
 
