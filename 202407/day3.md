@@ -5,14 +5,14 @@
 
 ---
 
-# DAY2: 2024年7月30日(火)
+# DAY3: 2024年7月30日(火)
 
 ## 朝食
 
 - ブリックス･ファミリー･レストラン(２階)でブッフェ
 - この日は朝食7:00-
 
-<center><img src="image-1.png" width="80%"></center>
+<center><img src="image-8.png" width="80%"></center>
 
 # [レゴランド・ジャパン](https://www.legoland.jp/)
 
