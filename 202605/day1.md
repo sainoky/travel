@@ -13,8 +13,6 @@
 
 - [📍福井県大飯郡おおい町成海1-1-1（うみんぴあ大飯内）](https://maps.app.goo.gl/UTRCLG7BbLBu5Bfq5)
 
-![福井県こども家族館](assets/kodomokazokukan.png)
-
 - <p>
     <img src="assets/kazokukan-1.png" alt="福井県こども家族館 1" width="32%" />
     <img src="assets/kazokukan-2.png" alt="福井県こども家族館 2" width="32%" />
