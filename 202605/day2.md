@@ -20,7 +20,7 @@
       <img src="assets/tongari-1.png" alt="なかよしとんがり牧場 1" width="49%" />
       <img src="assets/tongari-2.png" alt="なかよしとんがり牧場 2" width="49%" />
     </p>
-- [芝政ワールド](https://shibamasa.com/sp/index.php)（屋外メイン、天候次第）
+- [芝政ワールド](https://shibamasa.com/sp/index.php)（屋内も屋外もあり）
   - [📍〒913-0005 福井県坂井市三国町浜地４５](https://maps.app.goo.gl/THQr954vkpTfuhbQA)
   - <p>
       <img src="assets/shibamasa-1.png" alt="芝政ワールド 1" width="32%" />
