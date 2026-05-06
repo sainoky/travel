@@ -11,9 +11,9 @@
 
 ## [福井県こども家族館](https://www.kodomokazokukan.jp/)
 
-![福井県こども家族館](assets/kodomokazokukan.png)
-
 - [📍福井県大飯郡おおい町成海1-1-1（うみんぴあ大飯内）](https://maps.app.goo.gl/UTRCLG7BbLBu5Bfq5)
+
+![福井県こども家族館](assets/kodomokazokukan.png)
 
 > **⚠️月曜休館のため、必ずDAY1（日曜）に訪問すること**
 
@@ -39,6 +39,11 @@
   - [📍〒919-2101 福井県大飯郡おおい町大島２１−１１０](https://maps.app.goo.gl/wL6A261CeUx7TzkJA)
 - [きのこの森](https://www.wakasa-ohi.co.jp/?page_id=168)：森の中のキノコ型遊具アスレチック。全長460mのビッグスライダー、ムーンカートあり。 ☀️晴れ限定
   - [📍〒919-2123 福井県大飯郡おおい町鹿野42-27](https://maps.app.goo.gl/BdTNGvZkkTEEjbvW6)
+  - <p>
+      <img src="assets/kinoko-1.png" alt="きのこの森 1" width="32%" />
+      <img src="assets/kinoko-2.png" alt="きのこの森 2" width="32%" />
+      <img src="assets/kinoko-3.png" alt="きのこの森 3" width="32%" />
+    </p>
 - [若狭たかはまエルどらんど](https://www.kepco.co.jp/corporate/profile/community/pr/eldoland/index.html)：屋内アスレチック ⚠️ **月曜休館**
   - [📍〒919-2204 福井県大飯郡高浜町青戸４−１](https://maps.app.goo.gl/kp86NjyTkE4j3X75A)
 
