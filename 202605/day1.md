@@ -15,6 +15,12 @@
 
 ![福井県こども家族館](assets/kodomokazokukan.png)
 
+- <p>
+    <img src="assets/kazokukan-1.png" alt="福井県こども家族館 1" width="32%" />
+    <img src="assets/kazokukan-2.png" alt="福井県こども家族館 2" width="32%" />
+    <img src="assets/kazokukan-3.png" alt="福井県こども家族館 3" width="32%" />
+  </p>
+
 > **⚠️月曜休館のため、必ずDAY1（日曜）に訪問すること**
 
 - **9:30** 開館に合わせて到着
@@ -37,6 +43,10 @@
 
 - [あかぐり海釣公園](https://www.town.ohi.fukui.jp/1003/64/p10033.html)：釣り用具レンタルあり ☀️晴れ限定
   - [📍〒919-2101 福井県大飯郡おおい町大島２１−１１０](https://maps.app.goo.gl/wL6A261CeUx7TzkJA)
+  - <p>
+      <img src="assets/fishingpark-1.png" alt="あかぐり海釣公園 1" width="49%" />
+      <img src="assets/fishingpark-2.png" alt="あかぐり海釣公園 2" width="49%" />
+    </p>
 - [きのこの森](https://www.wakasa-ohi.co.jp/?page_id=168)：森の中のキノコ型遊具アスレチック。全長460mのビッグスライダー、ムーンカートあり。 ☀️晴れ限定
   - [📍〒919-2123 福井県大飯郡おおい町鹿野42-27](https://maps.app.goo.gl/BdTNGvZkkTEEjbvW6)
   - <p>
@@ -46,6 +56,10 @@
     </p>
 - [若狭たかはまエルどらんど](https://www.kepco.co.jp/corporate/profile/community/pr/eldoland/index.html)：屋内アスレチック ⚠️ **月曜休館**
   - [📍〒919-2204 福井県大飯郡高浜町青戸４−１](https://maps.app.goo.gl/kp86NjyTkE4j3X75A)
+  - <p>
+      <img src="assets/eldorando-1.png" alt="若狭たかはまエルどらんど 1" width="49%" />
+      <img src="assets/eldorando-2.png" alt="若狭たかはまエルどらんど 2" width="49%" />
+    </p>
 
 ---
 
