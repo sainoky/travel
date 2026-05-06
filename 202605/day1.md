@@ -45,7 +45,7 @@
       <img src="assets/fishingpark-1.png" alt="あかぐり海釣公園 1" width="49%" />
       <img src="assets/fishingpark-2.png" alt="あかぐり海釣公園 2" width="49%" />
     </p>
-- [きのこの森](https://www.wakasa-ohi.co.jp/?page_id=168)：森の中のキノコ型遊具アスレチック。全長460mのビッグスライダー、ムーンカートあり。 ☀️晴れ限定
+- [きのこの森](https://www.wakasa-ohi.co.jp/?page_id=168)：全長460mのビッグスライダー、ムーンカート ☀️晴れ限定
   - [📍〒919-2123 福井県大飯郡おおい町鹿野42-27](https://maps.app.goo.gl/BdTNGvZkkTEEjbvW6)
   - <p>
       <img src="assets/kinoko-1.png" alt="きのこの森 1" width="32%" />
