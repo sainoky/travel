@@ -14,7 +14,7 @@
 
 ## 嶺北エリア 寄り道候補
 
-- [なかよしとんがり牧場](https://www.fuku-iku.jp/asobiba/p000000zzzzo.html)
+- [なかよしとんがり牧場](https://www.fuku-iku.jp/asobiba/p000000zzzzo.html) ☀️晴れ限定
   - [📍〒913-0004 福井県坂井市三国町平山](https://maps.app.goo.gl/4woEH32m5Tx37N5A8)
   - <p>
       <img src="assets/tongari-1.png" alt="なかよしとんがり牧場 1" width="49%" />
