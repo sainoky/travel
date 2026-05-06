@@ -11,6 +11,8 @@
 
 ## [福井県こども家族館](https://www.kodomokazokukan.jp/)
 
+![福井県こども家族館](assets/kodomokazokukan.png)
+
 - [📍福井県大飯郡おおい町成海1-1-1（うみんぴあ大飯内）](https://maps.app.goo.gl/UTRCLG7BbLBu5Bfq5)
 
 > **⚠️月曜休館のため、必ずDAY1（日曜）に訪問すること**
