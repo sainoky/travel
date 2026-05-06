@@ -5,7 +5,7 @@
 
 # DAY1: 2026年5月17日(日)
 
-- **7:00** 千里中央 出発
+- 7:00〜8:00 千里中央 出発
 - [ルート：名神高速 → 京都縦貫道 → 舞鶴若狭道 → 大飯高浜IC → おおい町](https://maps.app.goo.gl/cNXVnmR6ZfPLmSK48)
 - 所要時間：約2時間（約145km）
 
@@ -21,8 +21,8 @@
 
 > **⚠️月曜休館のため、必ずDAY1（日曜）に訪問すること**
 
-- **9:30** 開館に合わせて到着
-- 恐竜体験ゾーンは事前予約不可のため、到着後すぐに申込?
+- 9:30 開館に合わせて到着できるとベスト
+- 関西万博の恐竜体験ゾーンは事前予約不可のため、到着後すぐに申込?
   - 午前の部：①10:00〜 ②10:30〜 ③11:00〜 ④11:30〜
   - できれば①か②の回を狙う
 
@@ -52,7 +52,7 @@
       <img src="assets/kinoko-2.png" alt="きのこの森 2" width="32%" />
       <img src="assets/kinoko-3.png" alt="きのこの森 3" width="32%" />
     </p>
-- [若狭たかはまエルどらんど](https://www.kepco.co.jp/corporate/profile/community/pr/eldoland/index.html)：屋内アスレチック ⚠️ **月曜休館**
+- [若狭たかはまエルどらんど](https://www.kepco.co.jp/corporate/profile/community/pr/eldoland/index.html)：科学展示、屋内アスレチック ⚠️ 月曜休館
   - [📍〒919-2204 福井県大飯郡高浜町青戸４−１](https://maps.app.goo.gl/kp86NjyTkE4j3X75A)
   - <p>
       <img src="assets/eldorando-1.png" alt="若狭たかはまエルどらんど 1" width="49%" />
@@ -71,7 +71,7 @@
 
 - 昼食後、青雲閣へ（おおい町→あわら市、約120km・約2時間）
 - [ルート：小浜 → 敦賀 → 北陸道 → 金津IC → あわら市](https://maps.app.goo.gl/A8KeTgL1Ephst9ZV7)
-- **15:00** チェックイン目標
+- 15:00 チェックイン目標
 
 ---
 
