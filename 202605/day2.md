@@ -8,19 +8,27 @@
 # 午前
 
 - 朝食バイキングをゆっくり食べて出発
-- **11:00** チェックアウト
+- 11:00 チェックアウト
 
 ---
 
-# 三国・坂井エリアを散策
+## 嶺北エリア 寄り道候補
 
-- 青雲閣（あわら市）から三国エリアまで約15分
-- 候補（要調査）：
-  - 東尋坊（断崖絶壁の景勝地）
-  - 三国港・三国サンセットビーチ周辺の散歩
-  - **[なかよしとんがり牧場](https://maps.app.goo.gl/4woEH32m5Tx37N5A8)**
-  - **[芝政ワールド](https://shibamasa.com/sp/index.php)**（屋外メイン、天候次第）
-    - `福井県坂井市三国町浜地45`
+- [なかよしとんがり牧場](https://www.fuku-iku.jp/asobiba/p000000zzzzo.html)
+  - [📍〒913-0004 福井県坂井市三国町平山](https://maps.app.goo.gl/4woEH32m5Tx37N5A8)
+  - <p>
+      <img src="assets/tongari-1.png" alt="なかよしとんがり牧場 1" width="49%" />
+      <img src="assets/tongari-2.png" alt="なかよしとんがり牧場 2" width="49%" />
+    </p>
+- [芝政ワールド](https://shibamasa.com/sp/index.php)（屋外メイン、天候次第）
+  - [📍〒913-0005 福井県坂井市三国町浜地４５](https://maps.app.goo.gl/THQr954vkpTfuhbQA)
+  - <p>
+      <img src="assets/shibamasa-1.png" alt="芝政ワールド 1" width="32%" />
+      <img src="assets/shibamasa-2.png" alt="芝政ワールド 2" width="32%" />
+      <img src="assets/shibamasa-3.png" alt="芝政ワールド 3" width="32%" />
+    </p>
+- 東尋坊
+- 三国港・三国サンセットビーチ周辺の散歩
 
 ---
 
@@ -32,10 +40,10 @@
 
 # 帰路
 
-- **14:00〜14:30** 千里中央へ向けて出発
-- ルート：北陸道 → 米原JCT → 名神 → 千里中央
+- 14:00 千里中央へ向けて出発
+- [ルート：北陸道 → 米原JCT → 名神 → 千里中央](https://maps.app.goo.gl/wHZ7v6WP55jq7frW9)
 - 所要時間：約2.5時間（約200km）
-- **17:00** 千里中央 着
+- 17:00 千里中央 着
 
 ---
 
