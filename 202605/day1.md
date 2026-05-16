@@ -57,6 +57,16 @@
 
 ---
 
+# ポケふた（できれば）
+
+- [ポケふた #418（おおい町）](https://local.pokemon.jp/manhole/desc/418/) を見に寄りたい
+  - カイリュー・ケーシィ・ニャオニクス
+  - こども家族館の建物のすぐ北側にあるはず
+
+<img src="assets/pokefuta-ooi.png" alt="ポケふた おおい カイリュー・ケーシィ・ニャオミクス" width="300" />
+
+---
+
 ## 嶺南エリア 寄り道候補
 
 こども家族館のかわりに：
@@ -73,16 +83,6 @@
       <img src="assets/eldorando-1.png" alt="若狭たかはまエルどらんど 1" width="49%" />
       <img src="assets/eldorando-2.png" alt="若狭たかはまエルどらんど 2" width="49%" />
     </p>
-
----
-
-# ポケふた（できれば）
-
-- [ポケふた #418（おおい町）](https://local.pokemon.jp/manhole/desc/418/) を見に寄りたい
-  - カイリュー・ケーシィ・ニャオニクス
-  - こども家族館の建物のすぐ北側にあるはず
-
-<img src="assets/pokefuta-ooi.png" alt="ポケふた おおい カイリュー・ケーシィ・ニャオミクス" width="300" />
 
 ---
 
