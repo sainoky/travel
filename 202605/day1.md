@@ -9,6 +9,28 @@
 - [ルート：名神高速 → 京都縦貫道 → 舞鶴若狭道 → 大飯高浜IC → おおい町](https://maps.app.goo.gl/cNXVnmR6ZfPLmSK48)
 - 所要時間：約2時間（約145km）
 
+## [きのこの森](https://www.wakasa-ohi.co.jp/?page_id=168) ☀️晴れ限定
+
+- [📍〒919-2123 福井県大飯郡おおい町鹿野42-27](https://maps.app.goo.gl/BdTNGvZkkTEEjbvW6)
+
+- <p>
+    <img src="assets/kinoko-1.png" alt="きのこの森 1" width="32%" />
+    <img src="assets/kinoko-2.png" alt="きのこの森 2" width="32%" />
+    <img src="assets/kinoko-3.png" alt="きのこの森 3" width="32%" />
+  </p>
+
+> ☀️ 屋根なしのアウトドア施設。雨天時は要確認。
+
+- 主なアトラクション
+  - **ビッグスライダー**：全長460m・5コース（専用敷物 100円/日）
+  - **きのこタワー**：高さ30mの展望台（シースルーエレベーターあり、若狭湾が一望できる）
+  - **ちびっこゲレンデ**：人工芝そり遊び（3才〜中学生対象、そり用具レンタル 100円/20分）
+  - **ムーンカート広場・トロッコ広場**：無料
+- 入場無料（一部アトラクションのみ実費）
+- 最終利用 16:30
+
+---
+
 ## [福井県こども家族館](https://www.kodomokazokukan.jp/)
 
 - [📍福井県大飯郡おおい町成海1-1-1（うみんぴあ大飯内）](https://maps.app.goo.gl/UTRCLG7BbLBu5Bfq5)
@@ -45,19 +67,22 @@
       <img src="assets/fishingpark-1.png" alt="あかぐり海釣公園 1" width="49%" />
       <img src="assets/fishingpark-2.png" alt="あかぐり海釣公園 2" width="49%" />
     </p>
-- [きのこの森](https://www.wakasa-ohi.co.jp/?page_id=168)：全長460mのビッグスライダー、ムーンカート ☀️晴れ限定
-  - [📍〒919-2123 福井県大飯郡おおい町鹿野42-27](https://maps.app.goo.gl/BdTNGvZkkTEEjbvW6)
-  - <p>
-      <img src="assets/kinoko-1.png" alt="きのこの森 1" width="32%" />
-      <img src="assets/kinoko-2.png" alt="きのこの森 2" width="32%" />
-      <img src="assets/kinoko-3.png" alt="きのこの森 3" width="32%" />
-    </p>
 - [若狭たかはまエルどらんど](https://www.kepco.co.jp/corporate/profile/community/pr/eldoland/index.html)：科学展示、屋内アスレチック ⚠️ 月曜休館
   - [📍〒919-2204 福井県大飯郡高浜町青戸４−１](https://maps.app.goo.gl/kp86NjyTkE4j3X75A)
   - <p>
       <img src="assets/eldorando-1.png" alt="若狭たかはまエルどらんど 1" width="49%" />
       <img src="assets/eldorando-2.png" alt="若狭たかはまエルどらんど 2" width="49%" />
     </p>
+
+---
+
+# ポケふた（できれば）
+
+- [ポケふた #418（おおい町）](https://local.pokemon.jp/manhole/desc/418/) を見に寄りたい
+  - カイリュー・ケーシィ・ニャオニクス
+  - こども家族館の建物のすぐ北側にあるはず
+
+<img src="assets/pokefuta-ooi.png" alt="ポケふた おおい カイリュー・ケーシィ・ニャオミクス" width="300" />
 
 ---
 
