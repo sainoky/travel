@@ -8,10 +8,10 @@
 
 * **17:30頃：千里中央から大阪南港へ出発**
   * 車で約40〜50分。
-* **19:00頃：別府行き「フェリーさんふらわあ」出港**
+* **19:00頃：別府行きフェリー出港**
   * 車ごと船に乗り込む。船内は個室や大浴場があり、寝ている間に移動可能。
   * [![船内の様子](https://img.youtube.com/vi/k94R9iKQ8fM/0.jpg)](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=22)
-  * 参照：[船内の様子（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=22) ※動画は宮崎フェリーだが設備規模は同様。
+  * 参照：[船内の様子（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=22) ※動画は宮崎フェリー
 
 ---
 
@@ -32,7 +32,7 @@
   * 参照：[草千里での乗馬（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=440)
 
 * **夕方：阿蘇の温泉宿にチェックイン**
-  * 夕食は名物の「あか牛丼」など。
+  * 夕食は名物の「あか牛丼」など?
   * [![あか牛丼の夕食](https://img.youtube.com/vi/k94R9iKQ8fM/0.jpg)](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=344)
   * 参照：[あか牛丼の夕食（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=344)
 
