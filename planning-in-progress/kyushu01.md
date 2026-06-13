@@ -1,0 +1,58 @@
+# 九州（大分・阿蘇）子連れ旅行計画案
+
+車ごとフェリーに乗って移動し、大分（別府）と熊本（阿蘇）をまわる現地1泊・船中2泊のプラン
+
+---
+
+## 🗓️ 1日目：夕方出発 ➔ フェリー乗船
+
+* **17:30頃：千里中央から大阪南港へ出発**
+  * 車で約40〜50分。
+* **19:00頃：別府行き「フェリーさんふらわあ」出港**
+  * 車ごと船に乗り込む。船内は個室や大浴場があり、寝ている間に移動可能。
+  * [![船内の様子](https://img.youtube.com/vi/k94R9iKQ8fM/0.jpg)](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=22)
+  * 参照：[船内の様子（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=22) ※動画は宮崎フェリーだが設備規模は同様。
+
+---
+
+## 🗓️ 2日目：別府（湯けむり・地獄）➔ 阿蘇（大草原）
+
+* **07:00頃：別府港に上陸、そのまま観光へ**
+* **午前：鉄輪温泉街の散策・地獄めぐり・地獄蒸しランチ**
+  * まちのあちこちからダイナミックに湯けむりが立ち上る、別府特有の温泉街の景色を散策。
+  * [![湯けむりの景色](https://img.youtube.com/vi/PingbiudqDE/0.jpg)](https://www.youtube.com/watch?v=PingbiudqDE&t=25)
+  * 参照：[湯けむりが上がる温泉街の景色（スガネコch）](https://www.youtube.com/watch?v=PingbiudqDE&t=25)
+  * スタンプラリーをしながら、ワニの餌やりやコバルトブルーの温泉を見てまわる。昼食は温泉の湯気で蒸す「地獄蒸し」を体験。
+  * [![ワニの餌やり](https://img.youtube.com/vi/PingbiudqDE/0.jpg)](https://www.youtube.com/watch?v=PingbiudqDE&t=297)
+  * 参照：[ワニの餌やり（スガネコch）](https://www.youtube.com/watch?v=PingbiudqDE&t=297) / [地獄蒸し体験（スガネコch）](https://www.youtube.com/watch?v=PingbiudqDE&t=705)
+
+* **午後：阿蘇へ移動 ➔ 草千里ヶ浜での乗馬体験**
+  * 大草原の散策と、絶景の中での乗馬体験。
+  * [![草千里での乗馬](https://img.youtube.com/vi/k94R9iKQ8fM/0.jpg)](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=440)
+  * 参照：[草千里での乗馬（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=440)
+
+* **夕方：阿蘇の温泉宿にチェックイン**
+  * 夕食は名物の「あか牛丼」など。
+  * [![あか牛丼の夕食](https://img.youtube.com/vi/k94R9iKQ8fM/0.jpg)](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=344)
+  * 参照：[あか牛丼の夕食（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=344)
+
+---
+
+## 🗓️ 3日目：阿蘇（巨大アスレチック・動物）➔ 夜のフェリーで大阪へ
+
+* **10:00頃：阿蘇ファームランド**
+  * 体と頭を使う日本最大級の巨大アスレチック「元気の森」と、カピバラ等と至近距離で触れ合える「ふれあい動物王国」で遊ぶ。
+  * [![動物との触れ合い](https://img.youtube.com/vi/k94R9iKQ8fM/0.jpg)](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=191)
+  * 参照：[動物との触れ合い（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=191)
+  * [![元気の森・アスレチック](https://img.youtube.com/vi/k94R9iKQ8fM/0.jpg)](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=226)
+  * 参照：[元気の森・アスレチック（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=226)
+
+* **夕方：お土産を買いながら別府港へ**
+* **18:45頃：大阪行きフェリー出港**
+  * 船内で夕食？
+
+---
+
+## 🗓️ 4日目：早朝、大阪帰着
+
+* **06:30頃：大阪南港に到着** ➔ 千里中央へ帰宅。
