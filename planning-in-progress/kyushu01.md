@@ -11,7 +11,7 @@
 * **19:00頃：別府行きフェリー出港**
   * 車ごと船に乗り込む。船内は個室や大浴場があり、寝ている間に移動可能。
   * [![船内の様子](https://img.youtube.com/vi/k94R9iKQ8fM/0.jpg)](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=22)
-  * 参照動画：[船内の様子（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=22) ※宮崎フェリーの動画
+  * 参照動画：[船内の様子（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=22) ※動画は神戸->宮崎フェリー
 
 ---
 
