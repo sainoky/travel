@@ -39,7 +39,7 @@
 
 * **10:00頃：阿蘇ファームランド**
   * 体と頭を使う日本最大級の巨大アスレチック「元気の森」と、カピバラ等と至近距離で触れ合える「ふれあい動物王国」で遊ぶ。
-  * 参照動画：[動物との触れ合い（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=191) / [元気の森・アスレチック（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=226)
+  * 参照動画：[動物との触れ合い（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=198) / [元気の森・アスレチック（サソセch）](https://www.youtube.com/watch?v=k94R9iKQ8fM&t=226)
 
 * **夕方：お土産を買いながら別府港へ**
 * **18:45頃：大阪行きフェリー出港**
