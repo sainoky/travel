@@ -30,7 +30,7 @@
 
 # [ホテル偕幸](https://www.hotel-kaikou.jp/)
 
-- [📍〒770-0926 徳島県徳島市伊賀町1-8](https://maps.app.goo.gl/?q=徳島県徳島市伊賀町1-8)
+- [📍〒770-0926 徳島県徳島市伊賀町1-8](https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E5%81%95%E5%B9%B8+%E5%BE%B3%E5%B3%B6%E7%9C%8C%E5%BE%B3%E5%B3%B6%E5%B8%82%E4%BC%8A%E8%B3%80%E7%94%BA1-8)
 - 088-624-8874
 
 ```
